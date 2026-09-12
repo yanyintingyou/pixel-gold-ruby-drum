@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "日心 Helios",
+      "hasCanvas": true,
+      "bodyTextLen": 260,
+      "bodyTextHash": "3847dc97fae67dc4d6ea320cf55b47c36dcff8669915d6f424f6a20646932f5d",
+      "bodyTextPrefix": "HELIOS 日心 太阳系三维轨道模拟 拖动旋转 · 滚轮缩放 点击行星聚焦 · 空格暂停 太阳 Sol 水星 Mercury ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "日心 Helios",
+      "hasCanvas": true,
+      "bodyTextLen": 121,
+      "bodyTextHash": "2462dba71c06fc146eabdf62502b1b763628fad50bb38588336b332fee8d2e37",
+      "bodyTextPrefix": "HELIOS 日心 太阳系三维轨道模拟 太阳 恒星 · Sol 一颗 G2V 黄矮星，占据太阳系质量的 99.86%。核心持续进",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
