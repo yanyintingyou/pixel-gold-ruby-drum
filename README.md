@@ -87,3 +87,7 @@ screenshots/            Existing application screenshots
 ## Simulation scope
 
 Helios is a visual exploration demo, not a precision astronomical simulator. Orbits are simplified to circles in a shared plane; body sizes and orbital distances are scaled for visibility. Orbital motion and axial rotation use separate accelerated time scales, and positions are not based on a live ephemeris or an N-body gravity solver. The information panels contain static reference text rather than live astronomical data.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
